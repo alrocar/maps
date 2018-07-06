@@ -1,0 +1,14 @@
+{
+    "categories": [
+        {
+            "title": "CARTO.js",
+            "samples": [
+                {
+                    "title": "World Rivers",
+                    "desc": "A map of the world made only of rivers",
+                    "file": "world_rivers.html"
+                }
+            ]
+        }
+    ]
+}
