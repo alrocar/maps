@@ -9,6 +9,16 @@
                     "file": "world_rivers.html"
                 }
             ]
+        },
+        {
+            "title": "Franchise (SQL notebooks)",
+            "samples": [
+                {
+                    "title": "World Rivers",
+                    "desc": "A map of the world made only of rivers",
+                    "file": "world_rivers_notebook.html"
+                }
+            ]
         }
     ]
 }
